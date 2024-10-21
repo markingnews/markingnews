@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404.html
+Disallow: /some-private-page.html
+
+Sitemap: https://markingnews.github.io/sitemap.xml
